@@ -1,3 +1,11 @@
 {
-    "title": "《佛说阿弥陀佛》罗江涛·著"
+    "title": "《佛说阿弥陀佛》罗江涛·著",
+    "plugins": [
+        "baidu-tongji"
+    ],
+    "pluginsConfig": {
+        "baidu-tongji": {
+            "siteid": "0fff86030f09fe066e15b7ed0d33da26"
+        }
+    }
 }
